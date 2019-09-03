@@ -23,7 +23,11 @@ https://git-scm.com/downloads
 - `git log` // vizualiza os pontos na linha do tempo/commit
 - `git status` // informa o estado das alterações do nosso projeto
 - `git show` // apresenta determinado ponto na história
--  `git branch` // 
+-  `git branch` // gerenciar novas linhas do tempo
+-  `git checkout` // manipula as linhas do tempo
+-  `git merge` // unir linhas do tempo
+-  `git push` // envia alterações locais para o repositório remoto
+
 - `git config credential.helper store` // salva usuário e senha github
 
-==> 6m30seg do video... (https://youtu.be/2alg7MQ6_sI?t=390)
+==> 19m45s do video... (https://youtu.be/2alg7MQ6_sI?t=1185)
