@@ -24,7 +24,8 @@ https://git-scm.com/downloads
 - [x] Antes de enviar a resolução, precisamos atualizar o projeto local.
 
 - [x] Você precisa voltar um arquivo para um determinado momento da linha do tempo.
-- [] Você precisa recuperar algo deletado.
+- [x] Você precisa recuperar algo deletado.
+
 * `git init` // inicia a linha do tempo
 * `git add` // adiciona ou atualiza mudanças para irem para a linha do tempo
 * `git commit` // adicniona um ponto na linha do tempo
@@ -38,5 +39,3 @@ https://git-scm.com/downloads
 * `git config credential.helper store` // salva usuário e senha github
 * `git clone` // clonar um projeto / repositório
 * `git pull` // puxa do repositório remoto
-
-==> 19m45s do video... (https://youtu.be/2alg7MQ6_sI?t=1185)
